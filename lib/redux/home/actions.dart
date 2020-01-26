@@ -1,7 +1,7 @@
 
-import 'package:flutter_on_the_go/config/ioc_container.dart';
-import 'package:flutter_on_the_go/models/api/request/get_fact_of_number_request_datamodel.dart';
-import 'package:flutter_on_the_go/redux/home/factory.dart';
+import 'package:flutter_folder_structure/config/ioc_container.dart';
+import 'package:flutter_folder_structure/models/api/request/get_fact_of_number_request_datamodel.dart';
+import 'package:flutter_folder_structure/redux/home/factory.dart';
 import 'package:redux/redux.dart';
 import 'package:redux_thunk/redux_thunk.dart';
 

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_on_the_go/config/api_settings.dart';
+import 'package:flutter_folder_structure/config/api_settings.dart';
 
 class HttpService {
   final Dio _dio;

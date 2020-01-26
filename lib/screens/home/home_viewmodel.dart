@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter_on_the_go/redux/app_state.dart';
-import 'package:flutter_on_the_go/redux/home/actions.dart';
+import 'package:flutter_folder_structure/redux/app_state.dart';
+import 'package:flutter_folder_structure/redux/home/actions.dart';
 import 'package:redux/redux.dart';
 
 class HomeViewModel {

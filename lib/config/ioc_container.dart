@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_on_the_go/redux/home/factory.dart';
-import 'package:flutter_on_the_go/services/http_service.dart';
+import 'package:flutter_folder_structure/redux/home/factory.dart';
+import 'package:flutter_folder_structure/services/http_service.dart';
 import 'package:kiwi/kiwi.dart';
 
 Container container = Container();

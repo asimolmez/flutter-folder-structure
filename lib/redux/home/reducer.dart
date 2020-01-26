@@ -1,5 +1,5 @@
-import 'package:flutter_on_the_go/redux/home/actions.dart';
-import 'package:flutter_on_the_go/redux/home/state.dart';
+import 'package:flutter_folder_structure/redux/home/actions.dart';
+import 'package:flutter_folder_structure/redux/home/state.dart';
 import 'package:redux/redux.dart';
 
 final Reducer<HomeState> homeReducer = combineReducers<HomeState>([

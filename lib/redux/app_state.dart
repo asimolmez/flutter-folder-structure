@@ -1,5 +1,5 @@
 import "package:flutter/foundation.dart";
-import 'package:flutter_on_the_go/redux/home/state.dart';
+import 'package:flutter_folder_structure/redux/home/state.dart';
 
 @immutable
 class AppState {

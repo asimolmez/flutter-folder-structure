@@ -1,7 +1,7 @@
 import "package:flutter/material.dart";
-import 'package:flutter_on_the_go/config/ioc_container.dart';
-import "package:flutter_on_the_go/redux/app_state.dart";
-import 'package:flutter_on_the_go/screens/home/home_view.dart';
+import 'package:flutter_folder_structure/config/ioc_container.dart';
+import "package:flutter_folder_structure/redux/app_state.dart";
+import 'package:flutter_folder_structure/screens/home/home_view.dart';
 import "package:flutter_redux/flutter_redux.dart";
 import "package:redux/redux.dart";
 

@@ -1,5 +1,5 @@
 
-import 'package:flutter_on_the_go/redux/home/reducer.dart';
+import 'package:flutter_folder_structure/redux/home/reducer.dart';
 
 import "app_state.dart";
 
