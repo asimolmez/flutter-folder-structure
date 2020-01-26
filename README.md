@@ -1,7 +1,7 @@
 # to use
 
-Copy
+Copy & Paste
 
 - lib folder
-- copy dependencies from pubspec.yaml
-- copy analysis_options.yaml
+- dependencies from pubspec.yaml
+- analysis_options.yaml
